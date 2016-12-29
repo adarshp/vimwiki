@@ -1,0 +1,6 @@
+To do today:
+
+- [ ] Find out how much time bbWW event generation takes.
+
+Tomorrow:
+- [ ] Make results of razor cut-and-count method into a contour plot.

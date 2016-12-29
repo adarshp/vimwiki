@@ -1,0 +1,11 @@
+= My knowledge base =
+    * [[Tasks]] -- things to be done yesterday!!
+    * [[Project Gutenberg]] -- good books are power
+    * [[Scratchpad]] -- various temporary stuff
+
+= Dark Matter at 100 TeV Project =
+    * [[Background cross sections]]
+
+= Agenda for today =
+    * Install pythia8 on your computer
+    * See if you can calculate NLO cross sections with mmll in the Z resonance region
